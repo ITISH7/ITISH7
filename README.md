@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ITISH7
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning data science and competitive programing
 - 💞️ I’m looking to collaborate on analysis and developing projects
 - 📫 How to reach me email:- itishjain7@gmail.com
 
